@@ -1,0 +1,8 @@
+.git
+node_modules
+.next
+.env.local
+.env*.local
+service-account-key.json
+*.md
+.claude
